@@ -1,0 +1,84 @@
+.sc-bxivhb {
+  width: auto !important;
+  /* width: 380px !important; */
+}
+
+.fx_rw {
+  display: flex !important;
+  flex-flow: row wrap !important;
+}
+
+.fx_rn {
+  display: flex !important;
+  flex-flow: row nowrap !important;
+}
+
+.fx_cw {
+  display: flex !important;
+  flex-flow: column wrap !important;
+}
+
+.fx_cn {
+  display: flex !important;
+  flex-flow: column nowrap !important;
+}
+
+/* justify content */
+
+.fx_jc_c {
+  justify-content: center !important;
+}
+
+.fx_jc_fs {
+  justify-content: flex-start !important;
+}
+
+.fx_jc_fe {
+  justify-content: flex-end !important;
+}
+
+.fx_jc_sb {
+  justify-content: space-between !important;
+}
+
+.fx_jc_sa {
+  justify-content: space-around !important;
+}
+
+.fx_jc_sa {
+  justify-content: space-evenly !important;
+}
+
+/* align items */
+
+.fx_ai_c {
+  align-items: center !important;
+}
+
+.fx_ai_fs {
+  align-items: flex-start !important;
+}
+
+.fx_ai_fe {
+  align-items: flex-end !important;
+}
+
+.fx_ai_sb {
+  align-items: space-between !important;
+}
+
+.fx_ai_sa {
+  align-items: space-around !important;
+}
+
+.fx_ai_sa {
+  align-items: space-evenly !important;
+}
+
+.observation_card {
+  height: 25rem !important;
+  width: 290px !important;
+  /* height: 100% !important; */
+  /* border-right: 2px solid #ecf1f5; */
+  border-bottom: 2px solid #ecf1f5;
+}
